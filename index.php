@@ -47,7 +47,7 @@
             </div>
         </div>
     </div>
-    <div class="container">
+    <div class="container anim">
         <h2>The Result</h2>
     </div>
     <div class="container fizz-buzz-result">
