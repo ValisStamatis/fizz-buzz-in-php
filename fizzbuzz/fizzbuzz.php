@@ -12,7 +12,7 @@
             $result = $i;
         }
     ?>
-        <div class="col-1">
+        <div class="col-3 col-md-1">
             <?= $result; ?>
         </div>
     <?php } ?>
